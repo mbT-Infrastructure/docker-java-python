@@ -1,4 +1,4 @@
-FROM madebytimo/base
+FROM madebytimo/java
 
-RUN install-autonomous.sh install Java Python && \
+RUN install-autonomous.sh install Python && \
     rm -rf /var/lib/apt/lists/*
