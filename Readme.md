@@ -1,20 +1,6 @@
 # Docker image
 
-This Docker image contains ...
-
-It does ...
-
-
-## Environment variables
-
-- `VARIABLE`
-    - Set to `true` to enable ...
-
-
-## Volumes
-
-- `/media/volume`
-    - The input and output directory of the files to ...
+This Docker image contains a Java and Python installation.
 
 
 ## Development
